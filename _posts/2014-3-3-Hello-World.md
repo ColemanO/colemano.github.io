@@ -25,5 +25,6 @@ So far the class has been very engaging. Exploring C++ and docker were very inte
 <br>
 <strong>What's my pick-of-the-week or tip-of-the-week?</strong>
 <br>
+My pick of the week is <a href="https://github.com/stephenway/monokai.terminal">this</a> terminal theme that makes the terminal a lot more pleasing to look at and especially makes working in vim through ssh easier on the eyes.
 <br>
 <img src="https://avatars0.githubusercontent.com/u/691520?v=4&u=63151621c59bfa1ec1c84b9d08aa8a3c9034b21b&s=400">
