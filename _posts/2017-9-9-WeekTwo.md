@@ -9,7 +9,7 @@ Over the past week, I've been preparing for the career fair, interviewed with a 
 <br>
 <strong>What's in your way?</strong>
 <br>
-I added two classes late and have consequently been trying to catch up in those classes which is making it difficult to get ahead in preparation for the career fair.
+I added two classes late and have consequently been trying to catch up in those classes which is making it difficult to get ahead in preparation for the career fair. Consequently, I have not had time to work on my personal projects and as a result, the app I talked about publishing in last week's post has still not been published. Hopefully, this will change after this coming week.
 <br>
 <strong>What will you do next week?</strong>
 <br>
