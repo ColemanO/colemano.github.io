@@ -1,26 +1,26 @@
 ---
 layout: post
-title: Week 2
+title: Week 3
 ---
 
 <strong>What did you do this past week?</strong>
 <br>
-Over the past week, I've been preparing for the career fair, interviewed with a company and have been trying to get ahead on my homework for the coming week.
+Over the past week the college of natural sciences career fair occured along with other networking and internship opertunity events. As a result I have been very stressed trying to ballance finding an internship with school work.
 <br>
 <strong>What's in your way?</strong>
 <br>
-I added two classes late and have consequently been trying to catch up in those classes which is making it difficult to get ahead in preparation for the career fair. Consequently, I have not had time to work on my personal projects and as a result, the app I talked about publishing in last week's post has still not been published. Hopefully, this will change after this coming week.
+I can feel a cold coming on it's probably because I haven't been getting very much sleep over the past couple of weeks. I've been finding it very difficult to find time to do everything that I need to do. 
 <br>
 <strong>What will you do next week?</strong>
 <br>
-Next week, I have an exam, will likely be working on the project for this class as well as the project for my compilers class and will be attending the career fair.
+Next week I have another project and test. In addition to these things I will most likely be attempting to catch up in the two classes that I didn't attend on thursday in order to go to the career fair. Next week is a relativly light week so hopefully I can catch up on some sleep.
 <br>
 <strong>What's my experience of the class?</strong>
 <br>
-Learning about the tools presented to us in class such as google test and travis.ci has been very interesting. I have not had a chance yet to get a real good start on the project though I did get everything set up and got a successful Travis build which was a struggle by itself. Hopefully now things will go more smoothly.
+Emran has been a great TA. Aside from his responsivness on Piazza, and his knowlage of the matrerial, the extra office hours that he holds when he is just around in GDC have proved extreemly helpful at least to me. We are all busy and the fact that he takes that time to help students outside of his regular office hours is greatly apreciated.
 <br>
 <strong>What's my pick-of-the-week or tip-of-the-week?</strong>
 <br>
-My pick of the week is <a href="https://trello.com">Trello</a>. It is a project management tool that I originally was using for an organization that requires a lot of collaborative work but I've also started using it for my own personal to-do lists. It is really a nice tool to have especially if you are working on a team.
+My pick of the week is <a href="https://quickdraw.withgoogle.com">Quick Draw</a> by Google. It is an AI experiment that is attempting to gather data on people's drawings so that it can better recognize drawings. The website frames it as a guessing game and has the user draw for 20 seconds while the computer attempts to guess what is being drawn. Interestingly as stated in <a href = "https://www.youtube.com/watch?v=59bMh59JQDo">this video</a> because human's are training the neural network, the population that is training it has introduced a bias toward a certain type of drawing. (in the video the example they use is a shoe)
 <br>
 <img src="https://avatars0.githubusercontent.com/u/691520?v=4&u=63151621c59bfa1ec1c84b9d08aa8a3c9034b21b&s=400">
