@@ -1,26 +1,26 @@
 ---
 layout: post
-title: Week 2
+title: Week 3
 ---
 
 <strong>What did you do this past week?</strong>
 <br>
-Over the past week, I've been preparing for the career fair, interviewed with a company and have been trying to get ahead on my homework for the coming week.
+Over the past week, especially this weekend I have been fairly busy with searching for an internship, school and an organization I am involved in. I conducted interviews for the organization and it's very interesting to be on the other side of that interaction. It gives me a little more perspective as to what an interviewer is likely looking for.
 <br>
 <strong>What's in your way?</strong>
 <br>
-I added two classes late and have consequently been trying to catch up in those classes which is making it difficult to get ahead in preparation for the career fair. Consequently, I have not had time to work on my personal projects and as a result, the app I talked about publishing in last week's post has still not been published. Hopefully, this will change after this coming week.
+I used to run every day and it would generally just make me feel better throughout the day but recently that has fallen to the bottom of my list of important things just because it been difficult to find the time.
 <br>
 <strong>What will you do next week?</strong>
 <br>
-Next week, I have an exam, will likely be working on the project for this class as well as the project for my compilers class and will be attending the career fair.
+Next week, I have exams and projects due that I will work on but I think that I am going to try and make time to run in the mornings. I have generally been feeling tired in the afternoons and I think getting back into running or some kind of physical activity will help that.
 <br>
 <strong>What's my experience of the class?</strong>
 <br>
-Learning about the tools presented to us in class such as google test and travis.ci has been very interesting. I have not had a chance yet to get a real good start on the project though I did get everything set up and got a successful Travis build which was a struggle by itself. Hopefully now things will go more smoothly.
+I think that I have found my groove in the class. There was a week when my quiz grades fell off but this past week was better. Additionally, I am becoming more acquainted with C++ and the tools used in the class.
 <br>
 <strong>What's my pick-of-the-week or tip-of-the-week?</strong>
 <br>
-My pick of the week is <a href="https://trello.com">Trello</a>. It is a project management tool that I originally was using for an organization that requires a lot of collaborative work but I've also started using it for my own personal to-do lists. It is really a nice tool to have especially if you are working on a team.
+My pick of the week is <a href="https://libraryofbabel.info">Jonathan Basile's libraryofbabel.info</a>. It is a website that makes real a fictional library that Jorge Luis Borges wrote about in his short story, The Library of Babel. The library contains the every possible combination of 1,312,000 characters that can be any lowercase letter, space, period and comma. Therefore the library should contain a lot of junk but also every literary work that has been written and ever work that will be written. This poses the question what does it mean to create something? It is interesting that with a simple algorithm and a computer this guy was able to bring into existence this library that is physically impractical to make.
 <br>
 <img src="https://avatars0.githubusercontent.com/u/691520?v=4&u=63151621c59bfa1ec1c84b9d08aa8a3c9034b21b&s=400">
