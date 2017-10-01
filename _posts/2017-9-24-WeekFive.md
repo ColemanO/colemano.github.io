@@ -21,6 +21,6 @@ I had an esspecially bad week in terms of quizes this week but hopefully that wi
 <br>
 <strong>What's my pick-of-the-week or tip-of-the-week?</strong>
 <br>
-My pick of the week is <a href="https://libraryofbabel.info">Jonathan Basile's libraryofbabel.info</a>. It is a website that makes real a fictional library that Jorge Luis Borges wrote about in his short story, The Library of Babel. The library contains the every possible combination of 1,312,000 characters that can be any lowercase letter, space, period and comma. Therefore the library should contain a lot of junk but also every literary work that has been written and ever work that will be written. This poses the question what does it mean to create something? It is interesting that with a simple algorithm and a computer this guy was able to bring into existence this library that is physically impractical to make.
+My pick of the week is <a href="https://material.io/guidelines/#">Google's material design guidlines</a>. They provide essentually a "visual language" as they put it for how software that follows the guidlines should look and feel. They take classic visual design principals and adapt them to work that is maluable and changing like software interfaces. It is really a great resource for anyone interested in UX/UI.
 <br>
 <img src="https://avatars0.githubusercontent.com/u/691520?v=4&u=63151621c59bfa1ec1c84b9d08aa8a3c9034b21b&s=400">
